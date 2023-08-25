@@ -24,4 +24,4 @@ The project provides code to train the iBoT encoder as well as utilities to inde
 
 ## References
 
-[iBoT Paper](https://arxiv.org/abs/2101.12091)
+[iBoT Paper](https://arxiv.org/abs/2111.07832)
